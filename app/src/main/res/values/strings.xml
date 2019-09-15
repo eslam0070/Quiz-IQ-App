@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">أختبر معلوماتك</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8419407261151146/8183971572</string>
+    <string name="banner2_ad_unit_id">ca-app-pub-8419407261151146/4816228743</string>
+    <string name="game">إلعب</string>
+    <string name="addpoint">إضافة نقاط</string>
+    <string name="app">تطبيقاتنا</string>
+    <string name="rat">تقييم</string>
+    <string name="rate_app"> قَـيم الـتـطـببـق للحـصـول على 5 نـقـاط</string>
+    <string name="watch_add">شـاهـد إعـلان للحـصـول على 10 نـقـاط</string>
+    <string name="share_fac">شــارك على فيـس بـوك للحـصـول على 5 نـقـاط</string>
+    <string name="download_apps"> قـم بـتثبيت احــد التـطبيقات للحـصـول على 5 نـقـاط</string>
+    <string name="share_app">  شــارك الـتـطـببـق مـع اصـدقائك للحـصـول على 5 نـقـاط</string>
+    <string name="share_whatsapp"> شــارك الـتـطـببـق في الواتساب للحـصـول على 5 نـقـاط </string>
+    <string name="share_twitter"> شــارك الـتـطـببـق في تويتر للحـصـول على 5 نـقـاط </string>
+    <string name="_0">0</string>
+    <string name="_30">30</string>
+    <string name="todo">TODO</string>
+
+</resources>
